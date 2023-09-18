@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+ultralytics 8.1.33 fix HUB model checks (#9153)
